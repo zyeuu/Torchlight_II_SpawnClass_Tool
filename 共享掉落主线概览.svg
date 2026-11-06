@@ -1,0 +1,441 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="701" height="577" viewBox="-16 -54 701 577" role="img" aria-label="共享掉落调用图 · 主线与代表性专属分支">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(11.52 477.44)">
+<title>G</title>
+<polygon fill="#fbfcf9" stroke="none" points="-11.52,11.52 -11.52,-477.44 657.68,-477.44 657.68,11.52 -11.52,11.52"/>
+<!-- n760 -->
+<a href="共享掉落调用图.html#TREASURE_MONSTERLOOT_NORMAL"><g id="n760" class="node" tabindex="0">
+<title>n760</title>
+<g id="a_n760"><a xlink:title="TREASURE_MONSTERLOOT_NORMAL">
+<path fill="#e7f0e8" stroke="#8fa99a" d="M525.51,-255.92C525.51,-255.92 393.75,-255.92 393.75,-255.92 387.75,-255.92 381.75,-249.92 381.75,-243.92 381.75,-243.92 381.75,-227 381.75,-227 381.75,-221 387.75,-215 393.75,-215 393.75,-215 525.51,-215 525.51,-215 531.51,-215 537.51,-221 537.51,-227 537.51,-227 537.51,-243.92 537.51,-243.92 537.51,-249.92 531.51,-255.92 525.51,-255.92"/>
+<text xml:space="preserve" text-anchor="start" x="441.77" y="-241.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#bd263c">?</text>
+<text xml:space="preserve" text-anchor="start" x="449.71" y="-241.26" font-family="Arial" font-size="10.00" fill="#173d41"> 普通怪</text>
+<text xml:space="preserve" text-anchor="start" x="388.23" y="-230.96" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE_MONSTERLOOT_</text>
+<text xml:space="preserve" text-anchor="start" x="438.24" y="-220.96" font-family="Arial" font-size="10.00" fill="#173d41">NORMAL</text>
+</a>
+</g>
+</g></a>
+<!-- n673 -->
+<a href="共享掉落调用图.html#TREASURE"><g id="n673" class="node" tabindex="0">
+<title>n673</title>
+<g id="a_n673"><a xlink:title="TREASURE">
+<path fill="#e7f0e8" stroke="#8fa99a" d="M632.15,-253.46C632.15,-253.46 585.52,-253.46 585.52,-253.46 579.52,-253.46 573.52,-247.46 573.52,-241.46 573.52,-241.46 573.52,-229.46 573.52,-229.46 573.52,-223.46 579.52,-217.46 585.52,-217.46 585.52,-217.46 632.15,-217.46 632.15,-217.46 638.15,-217.46 644.15,-223.46 644.15,-229.46 644.15,-229.46 644.15,-241.46 644.15,-241.46 644.15,-247.46 638.15,-253.46 632.15,-253.46"/>
+<text xml:space="preserve" text-anchor="start" x="580" y="-236.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#bd263c">?</text>
+<text xml:space="preserve" text-anchor="start" x="587.94" y="-236.26" font-family="Arial" font-size="10.00" fill="#173d41"> </text>
+<text xml:space="preserve" text-anchor="start" x="590.72" y="-236.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#aa7200">★</text>
+<text xml:space="preserve" text-anchor="start" x="601.56" y="-236.26" font-family="Arial" font-size="10.00" fill="#173d41"> 通用奖励</text>
+<text xml:space="preserve" text-anchor="start" x="581.61" y="-225.96" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE</text>
+</a>
+</g>
+</g></a>
+<!-- n760&#45;&gt;n673 -->
+<g id="e2786" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M537.68,-235.46C547.26,-235.46 556.76,-235.46 565.53,-235.46" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n760-&gt;n673</title>
+<g id="a_e2786"><a xlink:title="TREASURE_MONSTERLOOT_NORMAL → TREASURE · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M537.68,-235.46C547.26,-235.46 556.76,-235.46 565.53,-235.46"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="565.44,-237.56 571.44,-235.46 565.44,-233.36 565.44,-237.56"/>
+</a>
+</g>
+</g>
+<!-- n1669 -->
+<a href="共享掉落调用图.html#~LEGENDARY"><g id="n1669" class="node hot" tabindex="0">
+<title>n1669</title>
+<g id="a_n1669"><a xlink:title="LEGENDARY">
+<path fill="#f2edf5" stroke="#8fa99a" d="M634.16,-203.46C634.16,-203.46 583.51,-203.46 583.51,-203.46 577.51,-203.46 571.51,-197.46 571.51,-191.46 571.51,-191.46 571.51,-179.46 571.51,-179.46 571.51,-173.46 577.51,-167.46 583.51,-167.46 583.51,-167.46 634.16,-167.46 634.16,-167.46 640.16,-167.46 646.16,-173.46 646.16,-179.46 646.16,-179.46 646.16,-191.46 646.16,-191.46 646.16,-197.46 640.16,-203.46 634.16,-203.46"/>
+<text xml:space="preserve" text-anchor="middle" x="608.84" y="-188.46" font-family="Arial" font-size="10.00" fill="#173d41">传奇类型</text>
+<text xml:space="preserve" text-anchor="middle" x="608.84" y="-176.46" font-family="Arial" font-size="10.00" fill="#173d41">LEGENDARY</text>
+</a>
+</g>
+</g></a>
+<!-- n760&#45;&gt;n1669 -->
+<g id="e2787" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M522.21,-214.55C536.3,-209.76 551,-204.77 564.16,-200.3" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n760-&gt;n1669</title>
+<g id="a_e2787"><a xlink:title="TREASURE_MONSTERLOOT_NORMAL → LEGENDARY · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M522.21,-214.55C536.3,-209.76 551,-204.77 564.16,-200.3"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="564.79,-202.3 569.79,-198.38 563.43,-198.32 564.79,-202.3"/>
+</a>
+</g>
+</g>
+<!-- n747 -->
+<a href="共享掉落调用图.html#TREASURE_MONSTERLOOT_CHAMPION"><g id="n747" class="node hot" tabindex="0">
+<title>n747</title>
+<g id="a_n747"><a xlink:title="TREASURE_MONSTERLOOT_CHAMPION">
+<path fill="#e7f0e8" stroke="#8fa99a" d="M334.64,-312.42C334.64,-312.42 202.88,-312.42 202.88,-312.42 196.88,-312.42 190.88,-306.42 190.88,-300.42 190.88,-300.42 190.88,-280.5 190.88,-280.5 190.88,-274.5 196.88,-268.5 202.88,-268.5 202.88,-268.5 334.64,-268.5 334.64,-268.5 340.64,-268.5 346.64,-274.5 346.64,-280.5 346.64,-280.5 346.64,-300.42 346.64,-300.42 346.64,-306.42 340.64,-312.42 334.64,-312.42"/>
+<text xml:space="preserve" text-anchor="middle" x="268.76" y="-299.46" font-family="Arial" font-size="10.00" fill="#173d41">精英怪</text>
+<text xml:space="preserve" text-anchor="middle" x="268.76" y="-287.46" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE_MONSTERLOOT_</text>
+<text xml:space="preserve" text-anchor="middle" x="268.76" y="-275.46" font-family="Arial" font-size="10.00" fill="#173d41">CHAMPION</text>
+</a>
+</g>
+</g></a>
+<!-- n733 -->
+<a href="共享掉落调用图.html#TREASURE_LEGENDARY_CHAMPCHANCE"><g id="n733" class="node pick" tabindex="0">
+<title>n733</title>
+<g id="a_n733"><a xlink:title="TREASURE_LEGENDARY_CHAMPCHANCE">
+<path fill="#fff0d3" stroke="#8fa99a" d="M517.74,-202.92C517.74,-202.92 401.52,-202.92 401.52,-202.92 395.52,-202.92 389.52,-196.92 389.52,-190.92 389.52,-190.92 389.52,-174 389.52,-174 389.52,-168 395.52,-162 401.52,-162 401.52,-162 517.74,-162 517.74,-162 523.74,-162 529.74,-168 529.74,-174 529.74,-174 529.74,-190.92 529.74,-190.92 529.74,-196.92 523.74,-202.92 517.74,-202.92"/>
+<text xml:space="preserve" text-anchor="start" x="429.27" y="-188.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#bd263c">?</text>
+<text xml:space="preserve" text-anchor="start" x="437.21" y="-188.26" font-family="Arial" font-size="10.00" fill="#173d41"> 共享传奇机会</text>
+<text xml:space="preserve" text-anchor="start" x="396" y="-177.96" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE_LEGENDARY_</text>
+<text xml:space="preserve" text-anchor="start" x="420.46" y="-167.96" font-family="Arial" font-size="10.00" fill="#173d41">CHAMPCHANCE</text>
+</a>
+</g>
+</g></a>
+<!-- n747&#45;&gt;n733 -->
+<g id="e2747" class="edge hiedge"><path fill="none" stroke="transparent" stroke-width="9" d="M331.97,-268.13C341.24,-264.8 347.75,-262.46 347.75,-262.46 347.75,-262.46 381.75,-209.46 381.75,-209.46 381.75,-209.46 385.87,-208.01 392.2,-205.79" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n747-&gt;n733</title>
+<g id="a_e2747"><a xlink:title="TREASURE_MONSTERLOOT_CHAMPION → TREASURE_LEGENDARY_CHAMPCHANCE · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M331.97,-268.13C341.24,-264.8 347.75,-262.46 347.75,-262.46 347.75,-262.46 381.75,-209.46 381.75,-209.46 381.75,-209.46 385.87,-208.01 392.2,-205.79"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="392.73,-207.83 397.7,-203.86 391.34,-203.87 392.73,-207.83"/>
+</a>
+</g>
+</g>
+<!-- n740 -->
+<a href="共享掉落调用图.html#TREASURE_MONSTERLOOT_BOSS"><g id="n740" class="node hot" tabindex="0">
+<title>n740</title>
+<g id="a_n740"><a xlink:title="TREASURE_MONSTERLOOT_BOSS">
+<path fill="#e7f0e8" stroke="#8fa99a" d="M334.64,-96.42C334.64,-96.42 202.88,-96.42 202.88,-96.42 196.88,-96.42 190.88,-90.42 190.88,-84.42 190.88,-84.42 190.88,-64.5 190.88,-64.5 190.88,-58.5 196.88,-52.5 202.88,-52.5 202.88,-52.5 334.64,-52.5 334.64,-52.5 340.64,-52.5 346.64,-58.5 346.64,-64.5 346.64,-64.5 346.64,-84.42 346.64,-84.42 346.64,-90.42 340.64,-96.42 334.64,-96.42"/>
+<text xml:space="preserve" text-anchor="middle" x="268.76" y="-83.46" font-family="Arial" font-size="10.00" fill="#173d41">通用 Boss</text>
+<text xml:space="preserve" text-anchor="middle" x="268.76" y="-71.46" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE_MONSTERLOOT_</text>
+<text xml:space="preserve" text-anchor="middle" x="268.76" y="-59.46" font-family="Arial" font-size="10.00" fill="#173d41">BOSS</text>
+</a>
+</g>
+</g></a>
+<!-- n740&#45;&gt;n733 -->
+<g id="e2724" class="edge hiedge"><path fill="none" stroke="transparent" stroke-width="9" d="M331.97,-96.79C341.24,-100.12 347.75,-102.46 347.75,-102.46 347.75,-102.46 381.75,-127.46 381.75,-127.46 381.75,-127.46 403.33,-142.89 423.62,-157.41" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n740-&gt;n733</title>
+<g id="a_e2724"><a xlink:title="TREASURE_MONSTERLOOT_BOSS → TREASURE_LEGENDARY_CHAMPCHANCE · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M331.97,-96.79C341.24,-100.12 347.75,-102.46 347.75,-102.46 347.75,-102.46 381.75,-127.46 381.75,-127.46 381.75,-127.46 403.33,-142.89 423.62,-157.41"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="422.17,-158.96 428.28,-160.74 424.62,-155.54 422.17,-158.96"/>
+</a>
+</g>
+</g>
+<!-- n151 -->
+<a href="共享掉落调用图.html#CHAMPION_TREASURE"><g id="n151" class="node" tabindex="0">
+<title>n151</title>
+<g id="a_n151"><a xlink:title="CHAMPION_TREASURE">
+<path fill="#e7f0e8" stroke="#8fa99a" d="M511.07,-121.46C511.07,-121.46 408.2,-121.46 408.2,-121.46 402.2,-121.46 396.2,-115.46 396.2,-109.46 396.2,-109.46 396.2,-97.46 396.2,-97.46 396.2,-91.46 402.2,-85.46 408.2,-85.46 408.2,-85.46 511.07,-85.46 511.07,-85.46 517.07,-85.46 523.07,-91.46 523.07,-97.46 523.07,-97.46 523.07,-109.46 523.07,-109.46 523.07,-115.46 517.07,-121.46 511.07,-121.46"/>
+<text xml:space="preserve" text-anchor="middle" x="459.63" y="-106.46" font-family="Arial" font-size="10.00" fill="#173d41">Boss 基础奖励包</text>
+<text xml:space="preserve" text-anchor="middle" x="459.63" y="-94.46" font-family="Arial" font-size="10.00" fill="#173d41">CHAMPION_TREASURE</text>
+</a>
+</g>
+</g></a>
+<!-- n740&#45;&gt;n151 -->
+<g id="e2721" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M347.13,-86.34C360.79,-88.44 374.95,-90.61 388.41,-92.68" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n740-&gt;n151</title>
+<g id="a_e2721"><a xlink:title="TREASURE_MONSTERLOOT_BOSS → CHAMPION_TREASURE · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M347.13,-86.34C360.79,-88.44 374.95,-90.61 388.41,-92.68"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="387.99,-94.74 394.24,-93.57 388.62,-90.59 387.99,-94.74"/>
+</a>
+</g>
+</g>
+<!-- n759 -->
+<a href="共享掉落调用图.html#TREASURE_MONSTERLOOT_MAPBOSS"><g id="n759" class="node hot" tabindex="0">
+<title>n759</title>
+<g id="a_n759"><a xlink:title="TREASURE_MONSTERLOOT_MAPBOSS">
+<path fill="#e7f0e8" stroke="#8fa99a" d="M334.64,-204.42C334.64,-204.42 202.88,-204.42 202.88,-204.42 196.88,-204.42 190.88,-198.42 190.88,-192.42 190.88,-192.42 190.88,-172.5 190.88,-172.5 190.88,-166.5 196.88,-160.5 202.88,-160.5 202.88,-160.5 334.64,-160.5 334.64,-160.5 340.64,-160.5 346.64,-166.5 346.64,-172.5 346.64,-172.5 346.64,-192.42 346.64,-192.42 346.64,-198.42 340.64,-204.42 334.64,-204.42"/>
+<text xml:space="preserve" text-anchor="middle" x="268.76" y="-191.46" font-family="Arial" font-size="10.00" fill="#173d41">地图 Boss</text>
+<text xml:space="preserve" text-anchor="middle" x="268.76" y="-179.46" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE_MONSTERLOOT_</text>
+<text xml:space="preserve" text-anchor="middle" x="268.76" y="-167.46" font-family="Arial" font-size="10.00" fill="#173d41">MAPBOSS</text>
+</a>
+</g>
+</g></a>
+<!-- n759&#45;&gt;n733 -->
+<g id="e2784" class="edge hiedge"><path fill="none" stroke="transparent" stroke-width="9" d="M347.13,-182.46C358.57,-182.46 370.37,-182.46 381.81,-182.46" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n759-&gt;n733</title>
+<g id="a_e2784"><a xlink:title="TREASURE_MONSTERLOOT_MAPBOSS → TREASURE_LEGENDARY_CHAMPCHANCE · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M347.13,-182.46C358.57,-182.46 370.37,-182.46 381.81,-182.46"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="381.68,-184.56 387.68,-182.46 381.68,-180.36 381.68,-184.56"/>
+</a>
+</g>
+</g>
+<!-- n759&#45;&gt;n151 -->
+<g id="e2781" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M331.97,-160.13C341.24,-156.8 347.75,-154.46 347.75,-154.46 347.75,-154.46 381.54,-138.92 411.81,-125" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n759-&gt;n151</title>
+<g id="a_e2781"><a xlink:title="TREASURE_MONSTERLOOT_MAPBOSS → CHAMPION_TREASURE · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M331.97,-160.13C341.24,-156.8 347.75,-154.46 347.75,-154.46 347.75,-154.46 381.54,-138.92 411.81,-125"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="412.59,-126.95 417.16,-122.54 410.83,-123.14 412.59,-126.95"/>
+</a>
+</g>
+</g>
+<!-- n733&#45;&gt;n1669 -->
+<g id="e2705" class="edge hiedge"><path fill="none" stroke="transparent" stroke-width="9" d="M529.92,-183.87C541.45,-184.11 553.11,-184.34 563.78,-184.56" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n733-&gt;n1669</title>
+<g id="a_e2705"><a xlink:title="TREASURE_LEGENDARY_CHAMPCHANCE → LEGENDARY · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M529.92,-183.87C541.45,-184.11 553.11,-184.34 563.78,-184.56"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="563.72,-186.66 569.77,-184.68 563.81,-182.46 563.72,-186.66"/>
+</a>
+</g>
+</g>
+<!-- n743 -->
+<a href="共享掉落调用图.html#TREASURE_MONSTERLOOT_BOSS_GRELL"><g id="n743" class="node" tabindex="0">
+<title>n743</title>
+<g id="a_n743"><a xlink:title="TREASURE_MONSTERLOOT_BOSS_GRELL">
+<path fill="#fff0d3" stroke="#8fa99a" d="M143.76,-67.92C143.76,-67.92 12,-67.92 12,-67.92 6,-67.92 0,-61.92 0,-55.92 0,-55.92 0,-39 0,-39 0,-33 6,-27 12,-27 12,-27 143.76,-27 143.76,-27 149.76,-27 155.76,-33 155.76,-39 155.76,-39 155.76,-55.92 155.76,-55.92 155.76,-61.92 149.76,-67.92 143.76,-67.92"/>
+<text xml:space="preserve" text-anchor="start" x="42.46" y="-53.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#aa7200">★</text>
+<text xml:space="preserve" text-anchor="start" x="53.29" y="-53.26" font-family="Arial" font-size="10.00" fill="#173d41"> Grell 专属组合</text>
+<text xml:space="preserve" text-anchor="start" x="6.48" y="-42.96" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE_MONSTERLOOT_</text>
+<text xml:space="preserve" text-anchor="start" x="44.81" y="-32.96" font-family="Arial" font-size="10.00" fill="#173d41">BOSS_GRELL</text>
+</a>
+</g>
+</g></a>
+<!-- n743&#45;&gt;n740 -->
+<g id="e2730" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M156.25,-58.52C165.08,-59.78 174.12,-61.08 183.05,-62.35" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n743-&gt;n740</title>
+<g id="a_e2730"><a xlink:title="TREASURE_MONSTERLOOT_BOSS_GRELL → TREASURE_MONSTERLOOT_BOSS · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M156.25,-58.52C165.08,-59.78 174.12,-61.08 183.05,-62.35"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="182.7,-64.42 188.94,-63.19 183.29,-60.26 182.7,-64.42"/>
+</a>
+</g>
+</g>
+<!-- n290 -->
+<a href="共享掉落调用图.html#GRELL_TREASURE_EYE_CHANCE"><g id="n290" class="node" tabindex="0">
+<title>n290</title>
+<g id="a_n290"><a xlink:title="GRELL_TREASURE_EYE_CHANCE">
+<path fill="#fff0d3" stroke="#8fa99a" d="M325.21,-40.92C325.21,-40.92 212.31,-40.92 212.31,-40.92 206.31,-40.92 200.31,-34.92 200.31,-28.92 200.31,-28.92 200.31,-12 200.31,-12 200.31,-6 206.31,0 212.31,0 212.31,0 325.21,0 325.21,0 331.21,0 337.21,-6 337.21,-12 337.21,-12 337.21,-28.92 337.21,-28.92 337.21,-34.92 331.21,-40.92 325.21,-40.92"/>
+<text xml:space="preserve" text-anchor="start" x="227.98" y="-26.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#bd263c">?</text>
+<text xml:space="preserve" text-anchor="start" x="235.92" y="-26.26" font-family="Arial" font-size="10.00" fill="#173d41"> </text>
+<text xml:space="preserve" text-anchor="start" x="238.69" y="-26.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#aa7200">★</text>
+<text xml:space="preserve" text-anchor="start" x="249.53" y="-26.26" font-family="Arial" font-size="10.00" fill="#173d41"> Grell 之眼机会</text>
+<text xml:space="preserve" text-anchor="start" x="206.79" y="-15.96" font-family="Arial" font-size="10.00" fill="#173d41">GRELL_TREASURE_EYE_</text>
+<text xml:space="preserve" text-anchor="start" x="247.64" y="-5.96" font-family="Arial" font-size="10.00" fill="#173d41">CHANCE</text>
+</a>
+</g>
+</g></a>
+<!-- n743&#45;&gt;n290 -->
+<g id="e2732" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M156.25,-36.4C168.23,-34.69 180.59,-32.92 192.52,-31.22" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n743-&gt;n290</title>
+<g id="a_e2732"><a xlink:title="TREASURE_MONSTERLOOT_BOSS_GRELL → GRELL_TREASURE_EYE_CHANCE · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M156.25,-36.4C168.23,-34.69 180.59,-32.92 192.52,-31.22"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="192.67,-33.31 198.31,-30.39 192.08,-29.16 192.67,-33.31"/>
+</a>
+</g>
+</g>
+<!-- n1263 -->
+<a href="共享掉落调用图.html#!TL2_EYEOFGRELL"><g id="n1263" class="node" tabindex="0">
+<title>n1263</title>
+<g id="a_n1263"><a xlink:title="TL2_EYEOFGRELL">
+<path fill="#f2edf5" stroke="#8fa99a" d="M498.85,-38.46C498.85,-38.46 420.41,-38.46 420.41,-38.46 414.41,-38.46 408.41,-32.46 408.41,-26.46 408.41,-26.46 408.41,-14.46 408.41,-14.46 408.41,-8.46 414.41,-2.46 420.41,-2.46 420.41,-2.46 498.85,-2.46 498.85,-2.46 504.85,-2.46 510.85,-8.46 510.85,-14.46 510.85,-14.46 510.85,-26.46 510.85,-26.46 510.85,-32.46 504.85,-38.46 498.85,-38.46"/>
+<text xml:space="preserve" text-anchor="middle" x="459.63" y="-23.46" font-family="Arial" font-size="10.00" fill="#173d41">格雷尔之眼</text>
+<text xml:space="preserve" text-anchor="middle" x="459.63" y="-11.46" font-family="Arial" font-size="10.00" fill="#173d41">TL2_EYEOFGRELL</text>
+</a>
+</g>
+</g></a>
+<!-- n290&#45;&gt;n1263 -->
+<g id="e1005" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M337.68,-20.46C358.31,-20.46 380.78,-20.46 400.69,-20.46" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n290-&gt;n1263</title>
+<g id="a_e1005"><a xlink:title="GRELL_TREASURE_EYE_CHANCE → TL2_EYEOFGRELL · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M337.68,-20.46C358.31,-20.46 380.78,-20.46 400.69,-20.46"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="400.6,-22.56 406.6,-20.46 400.6,-18.36 400.6,-22.56"/>
+</a>
+</g>
+</g>
+<!-- n696 -->
+<a href="共享掉落调用图.html#TREASURE_CHEST_SMALL"><g id="n696" class="node" tabindex="0">
+<title>n696</title>
+<g id="a_n696"><a xlink:title="TREASURE_CHEST_SMALL">
+<path fill="#e7f0e8" stroke="#8fa99a" d="M138.49,-360.46C138.49,-360.46 17.27,-360.46 17.27,-360.46 11.27,-360.46 5.27,-354.46 5.27,-348.46 5.27,-348.46 5.27,-336.46 5.27,-336.46 5.27,-330.46 11.27,-324.46 17.27,-324.46 17.27,-324.46 138.49,-324.46 138.49,-324.46 144.49,-324.46 150.49,-330.46 150.49,-336.46 150.49,-336.46 150.49,-348.46 150.49,-348.46 150.49,-354.46 144.49,-360.46 138.49,-360.46"/>
+<text xml:space="preserve" text-anchor="middle" x="77.88" y="-345.46" font-family="Arial" font-size="10.00" fill="#173d41">标准箱入口</text>
+<text xml:space="preserve" text-anchor="middle" x="77.88" y="-333.46" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE_CHEST_SMALL</text>
+</a>
+</g>
+</g></a>
+<!-- n167 -->
+<a href="共享掉落调用图.html#CHEST_TREASURE_PRIMARY"><g id="n167" class="node" tabindex="0">
+<title>n167</title>
+<g id="a_n167"><a xlink:title="CHEST_TREASURE_PRIMARY">
+<path fill="#e7f0e8" stroke="#8fa99a" d="M335.75,-360.46C335.75,-360.46 201.76,-360.46 201.76,-360.46 195.76,-360.46 189.76,-354.46 189.76,-348.46 189.76,-348.46 189.76,-336.46 189.76,-336.46 189.76,-330.46 195.76,-324.46 201.76,-324.46 201.76,-324.46 335.75,-324.46 335.75,-324.46 341.75,-324.46 347.75,-330.46 347.75,-336.46 347.75,-336.46 347.75,-348.46 347.75,-348.46 347.75,-354.46 341.75,-360.46 335.75,-360.46"/>
+<text xml:space="preserve" text-anchor="start" x="241.11" y="-343.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#aa7200">★</text>
+<text xml:space="preserve" text-anchor="start" x="251.95" y="-343.26" font-family="Arial" font-size="10.00" fill="#173d41"> 普通箱主池</text>
+<text xml:space="preserve" text-anchor="start" x="196.24" y="-332.96" font-family="Arial" font-size="10.00" fill="#173d41">CHEST_TREASURE_PRIMARY</text>
+</a>
+</g>
+</g></a>
+<!-- n696&#45;&gt;n167 -->
+<g id="e2607" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M150.83,-342.46C160.98,-342.46 171.5,-342.46 181.88,-342.46" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n696-&gt;n167</title>
+<g id="a_e2607"><a xlink:title="TREASURE_CHEST_SMALL → CHEST_TREASURE_PRIMARY · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M150.83,-342.46C160.98,-342.46 171.5,-342.46 181.88,-342.46"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="181.81,-344.56 187.81,-342.46 181.81,-340.36 181.81,-344.56"/>
+</a>
+</g>
+</g>
+<!-- n686 -->
+<a href="共享掉落调用图.html#TREASURE_CHEST_BOSS"><g id="n686" class="node" tabindex="0">
+<title>n686</title>
+<g id="a_n686"><a xlink:title="TREASURE_CHEST_BOSS">
+<path fill="#fff0d3" stroke="#8fa99a" d="M135.99,-461.46C135.99,-461.46 19.77,-461.46 19.77,-461.46 13.77,-461.46 7.77,-455.46 7.77,-449.46 7.77,-449.46 7.77,-437.46 7.77,-437.46 7.77,-431.46 13.77,-425.46 19.77,-425.46 19.77,-425.46 135.99,-425.46 135.99,-425.46 141.99,-425.46 147.99,-431.46 147.99,-437.46 147.99,-437.46 147.99,-449.46 147.99,-449.46 147.99,-455.46 141.99,-461.46 135.99,-461.46"/>
+<text xml:space="preserve" text-anchor="start" x="54.4" y="-444.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#aa7200">★</text>
+<text xml:space="preserve" text-anchor="start" x="65.24" y="-444.26" font-family="Arial" font-size="10.00" fill="#173d41"> Boss 箱</text>
+<text xml:space="preserve" text-anchor="start" x="14.25" y="-433.96" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE_CHEST_BOSS</text>
+</a>
+</g>
+</g></a>
+<!-- n768 -->
+<a href="共享掉落调用图.html#TREASURE_SKULLCHANCE_FORSUPERCHESTS"><g id="n768" class="node" tabindex="0">
+<title>n768</title>
+<g id="a_n768"><a xlink:title="TREASURE_SKULLCHANCE_FORSUPERCHESTS">
+<path fill="#fff0d3" stroke="#8fa99a" d="M332.98,-465.92C332.98,-465.92 204.53,-465.92 204.53,-465.92 198.53,-465.92 192.53,-459.92 192.53,-453.92 192.53,-453.92 192.53,-437 192.53,-437 192.53,-431 198.53,-425 204.53,-425 204.53,-425 332.98,-425 332.98,-425 338.98,-425 344.98,-431 344.98,-437 344.98,-437 344.98,-453.92 344.98,-453.92 344.98,-459.92 338.98,-465.92 332.98,-465.92"/>
+<text xml:space="preserve" text-anchor="start" x="227.42" y="-451.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#bd263c">?</text>
+<text xml:space="preserve" text-anchor="start" x="235.36" y="-451.26" font-family="Arial" font-size="10.00" fill="#173d41"> </text>
+<text xml:space="preserve" text-anchor="start" x="238.14" y="-451.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#aa7200">★</text>
+<text xml:space="preserve" text-anchor="start" x="248.97" y="-451.26" font-family="Arial" font-size="10.00" fill="#173d41"> 共享镶嵌物机会</text>
+<text xml:space="preserve" text-anchor="start" x="199.01" y="-440.96" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE_SKULLCHANCE_</text>
+<text xml:space="preserve" text-anchor="start" x="220.7" y="-430.96" font-family="Arial" font-size="10.00" fill="#173d41">FORSUPERCHESTS</text>
+</a>
+</g>
+</g></a>
+<!-- n686&#45;&gt;n768 -->
+<g id="e2568" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M148.41,-444.2C160.25,-444.32 172.66,-444.45 184.82,-444.58" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n686-&gt;n768</title>
+<g id="a_e2568"><a xlink:title="TREASURE_CHEST_BOSS → TREASURE_SKULLCHANCE_FORSUPERCHESTS · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M148.41,-444.2C160.25,-444.32 172.66,-444.45 184.82,-444.58"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="184.73,-446.68 190.75,-444.64 184.77,-442.48 184.73,-446.68"/>
+</a>
+</g>
+</g>
+<!-- n172 -->
+<a href="共享掉落调用图.html#CHEST_TREASURE_SECONDARY_GOOD"><g id="n172" class="node" tabindex="0">
+<title>n172</title>
+<g id="a_n172"><a xlink:title="CHEST_TREASURE_SECONDARY_GOOD">
+<path fill="#e7f0e8" stroke="#8fa99a" d="M312.97,-412.92C312.97,-412.92 224.54,-412.92 224.54,-412.92 218.54,-412.92 212.54,-406.92 212.54,-400.92 212.54,-400.92 212.54,-384 212.54,-384 212.54,-378 218.54,-372 224.54,-372 224.54,-372 312.97,-372 312.97,-372 318.97,-372 324.97,-378 324.97,-384 324.97,-384 324.97,-400.92 324.97,-400.92 324.97,-406.92 318.97,-412.92 312.97,-412.92"/>
+<text xml:space="preserve" text-anchor="start" x="239.92" y="-398.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#bd263c">?</text>
+<text xml:space="preserve" text-anchor="start" x="247.86" y="-398.26" font-family="Arial" font-size="10.00" fill="#173d41"> </text>
+<text xml:space="preserve" text-anchor="start" x="250.64" y="-398.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#aa7200">★</text>
+<text xml:space="preserve" text-anchor="start" x="261.48" y="-398.26" font-family="Arial" font-size="10.00" fill="#173d41"> 优质次池</text>
+<text xml:space="preserve" text-anchor="start" x="219.02" y="-387.96" font-family="Arial" font-size="10.00" fill="#173d41">CHEST_TREASURE_</text>
+<text xml:space="preserve" text-anchor="start" x="219.03" y="-377.96" font-family="Arial" font-size="10.00" fill="#173d41">SECONDARY_GOOD</text>
+</a>
+</g>
+</g></a>
+<!-- n686&#45;&gt;n172 -->
+<g id="e2566" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M147.34,-424.98C166.16,-419.89 186.48,-414.41 204.97,-409.41" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n686-&gt;n172</title>
+<g id="a_e2566"><a xlink:title="TREASURE_CHEST_BOSS → CHEST_TREASURE_SECONDARY_GOOD · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M147.34,-424.98C166.16,-419.89 186.48,-414.41 204.97,-409.41"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="205.45,-411.46 210.7,-407.87 204.36,-407.4 205.45,-411.46"/>
+</a>
+</g>
+</g>
+<!-- n690 -->
+<a href="共享掉落调用图.html#TREASURE_CHEST_HUGE"><g id="n690" class="node" tabindex="0">
+<title>n690</title>
+<g id="a_n690"><a xlink:title="TREASURE_CHEST_HUGE">
+<path fill="#fff0d3" stroke="#8fa99a" d="M136.54,-411.46C136.54,-411.46 19.22,-411.46 19.22,-411.46 13.22,-411.46 7.22,-405.46 7.22,-399.46 7.22,-399.46 7.22,-387.46 7.22,-387.46 7.22,-381.46 13.22,-375.46 19.22,-375.46 19.22,-375.46 136.54,-375.46 136.54,-375.46 142.54,-375.46 148.54,-381.46 148.54,-387.46 148.54,-387.46 148.54,-399.46 148.54,-399.46 148.54,-405.46 142.54,-411.46 136.54,-411.46"/>
+<text xml:space="preserve" text-anchor="start" x="54.4" y="-394.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#aa7200">★</text>
+<text xml:space="preserve" text-anchor="start" x="65.24" y="-394.26" font-family="Arial" font-size="10.00" fill="#173d41"> 稀有大箱</text>
+<text xml:space="preserve" text-anchor="start" x="13.7" y="-383.96" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE_CHEST_HUGE</text>
+</a>
+</g>
+</g></a>
+<!-- n690&#45;&gt;n768 -->
+<g id="e2584" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M146,-411.94C158.62,-415.41 171.94,-419.08 184.97,-422.67" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n690-&gt;n768</title>
+<g id="a_e2584"><a xlink:title="TREASURE_CHEST_HUGE → TREASURE_SKULLCHANCE_FORSUPERCHESTS · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M146,-411.94C158.62,-415.41 171.94,-419.08 184.97,-422.67"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="184.29,-424.66 190.64,-424.23 185.41,-420.61 184.29,-424.66"/>
+</a>
+</g>
+</g>
+<!-- n690&#45;&gt;n172 -->
+<g id="e2582" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M148.94,-393.09C167.22,-392.99 186.81,-392.89 204.7,-392.79" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n690-&gt;n172</title>
+<g id="a_e2582"><a xlink:title="TREASURE_CHEST_HUGE → CHEST_TREASURE_SECONDARY_GOOD · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M148.94,-393.09C167.22,-392.99 186.81,-392.89 204.7,-392.79"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="204.68,-394.89 210.67,-392.76 204.66,-390.69 204.68,-394.89"/>
+</a>
+</g>
+</g>
+<!-- n1254 -->
+<a href="共享掉落调用图.html#~UNIQUE%20SOCKETABLE"><g id="n1254" class="node" tabindex="0">
+<title>n1254</title>
+<g id="a_n1254"><a xlink:title="UNIQUE SOCKETABLE">
+<path fill="#f2edf5" stroke="#8fa99a" d="M508.29,-463.46C508.29,-463.46 410.97,-463.46 410.97,-463.46 404.97,-463.46 398.97,-457.46 398.97,-451.46 398.97,-451.46 398.97,-439.46 398.97,-439.46 398.97,-433.46 404.97,-427.46 410.97,-427.46 410.97,-427.46 508.29,-427.46 508.29,-427.46 514.29,-427.46 520.29,-433.46 520.29,-439.46 520.29,-439.46 520.29,-451.46 520.29,-451.46 520.29,-457.46 514.29,-463.46 508.29,-463.46"/>
+<text xml:space="preserve" text-anchor="middle" x="459.63" y="-448.46" font-family="Arial" font-size="10.00" fill="#173d41">Unique 镶嵌物</text>
+<text xml:space="preserve" text-anchor="middle" x="459.63" y="-436.46" font-family="Arial" font-size="10.00" fill="#173d41">UNIQUE SOCKETABLE</text>
+</a>
+</g>
+</g></a>
+<!-- n768&#45;&gt;n1254 -->
+<g id="e2814" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M345.22,-445.46C360.5,-445.46 376.46,-445.46 391.43,-445.46" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n768-&gt;n1254</title>
+<g id="a_e2814"><a xlink:title="TREASURE_SKULLCHANCE_FORSUPERCHESTS → UNIQUE SOCKETABLE · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M345.22,-445.46C360.5,-445.46 376.46,-445.46 391.43,-445.46"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="391.1,-447.56 397.1,-445.46 391.1,-443.36 391.1,-447.56"/>
+</a>
+</g>
+</g>
+<!-- n1761 -->
+<a href="共享掉落调用图.html#%4043"><g id="n1761" class="node" tabindex="0">
+<title>n1761</title>
+<g id="a_n1761"><a xlink:title="怨灵领主">
+<path fill="#e5ecf5" stroke="#8fa99a" d="M92.88,-254.46C92.88,-254.46 62.88,-254.46 62.88,-254.46 56.88,-254.46 50.88,-248.46 50.88,-242.46 50.88,-242.46 50.88,-230.46 50.88,-230.46 50.88,-224.46 56.88,-218.46 62.88,-218.46 62.88,-218.46 92.88,-218.46 92.88,-218.46 98.88,-218.46 104.88,-224.46 104.88,-230.46 104.88,-230.46 104.88,-242.46 104.88,-242.46 104.88,-248.46 98.88,-254.46 92.88,-254.46"/>
+<text xml:space="preserve" text-anchor="middle" x="77.88" y="-233.46" font-family="Arial" font-size="10.00" fill="#173d41">怨灵领主</text>
+</a>
+</g>
+</g></a>
+<!-- n1761&#45;&gt;n747 -->
+<g id="e3231" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M105.14,-243.97C125.61,-249.82 155.22,-258.28 183.58,-266.39" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n1761-&gt;n747</title>
+<g id="a_e3231"><a xlink:title="怨灵领主 → TREASURE_MONSTERLOOT_CHAMPION · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M105.14,-243.97C125.61,-249.82 155.22,-258.28 183.58,-266.39"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="182.88,-268.38 189.23,-268.01 184.04,-264.34 182.88,-268.38"/>
+</a>
+</g>
+</g>
+<!-- n722 -->
+<a href="共享掉落调用图.html#TREASURE_EYECHANCE_WRAITH"><g id="n722" class="node" tabindex="0">
+<title>n722</title>
+<g id="a_n722"><a xlink:title="TREASURE_EYECHANCE_WRAITH">
+<path fill="#fff0d3" stroke="#8fa99a" d="M327.14,-256.92C327.14,-256.92 210.37,-256.92 210.37,-256.92 204.37,-256.92 198.37,-250.92 198.37,-244.92 198.37,-244.92 198.37,-228 198.37,-228 198.37,-222 204.37,-216 210.37,-216 210.37,-216 327.14,-216 327.14,-216 333.14,-216 339.14,-222 339.14,-228 339.14,-228 339.14,-244.92 339.14,-244.92 339.14,-250.92 333.14,-256.92 327.14,-256.92"/>
+<text xml:space="preserve" text-anchor="start" x="223.25" y="-242.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#bd263c">?</text>
+<text xml:space="preserve" text-anchor="start" x="231.19" y="-242.26" font-family="Arial" font-size="10.00" fill="#173d41"> </text>
+<text xml:space="preserve" text-anchor="start" x="233.97" y="-242.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#aa7200">★</text>
+<text xml:space="preserve" text-anchor="start" x="244.81" y="-242.26" font-family="Arial" font-size="10.00" fill="#173d41"> 怨灵领主之眼机会</text>
+<text xml:space="preserve" text-anchor="start" x="204.85" y="-231.96" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE_EYECHANCE_</text>
+<text xml:space="preserve" text-anchor="start" x="249.04" y="-221.96" font-family="Arial" font-size="10.00" fill="#173d41">WRAITH</text>
+</a>
+</g>
+</g></a>
+<!-- n1761&#45;&gt;n722 -->
+<g id="e3230" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M105.14,-236.46C127.38,-236.46 160.43,-236.46 190.93,-236.46" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n1761-&gt;n722</title>
+<g id="a_e3230"><a xlink:title="怨灵领主 → TREASURE_EYECHANCE_WRAITH · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M105.14,-236.46C127.38,-236.46 160.43,-236.46 190.93,-236.46"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="190.62,-238.56 196.62,-236.46 190.62,-234.36 190.62,-238.56"/>
+</a>
+</g>
+</g>
+<!-- n771 -->
+<a href="共享掉落调用图.html#TREASURE_WRAITHHAMMERCHANCE"><g id="n771" class="node" tabindex="0">
+<title>n771</title>
+<g id="a_n771"><a xlink:title="TREASURE_WRAITHHAMMERCHANCE">
+<path fill="#fff0d3" stroke="#8fa99a" d="M326.29,-148.92C326.29,-148.92 211.22,-148.92 211.22,-148.92 205.22,-148.92 199.22,-142.92 199.22,-136.92 199.22,-136.92 199.22,-120 199.22,-120 199.22,-114 205.22,-108 211.22,-108 211.22,-108 326.29,-108 326.29,-108 332.29,-108 338.29,-114 338.29,-120 338.29,-120 338.29,-136.92 338.29,-136.92 338.29,-142.92 332.29,-148.92 326.29,-148.92"/>
+<text xml:space="preserve" text-anchor="start" x="234.23" y="-134.26" font-family="Arial" font-weight="bold" font-size="13.00" fill="#bd263c">?</text>
+<text xml:space="preserve" text-anchor="start" x="242.17" y="-134.26" font-family="Arial" font-size="10.00" fill="#173d41"> 怨灵领主专属锤</text>
+<text xml:space="preserve" text-anchor="start" x="238.75" y="-123.96" font-family="Arial" font-size="10.00" fill="#173d41">TREASURE_</text>
+<text xml:space="preserve" text-anchor="start" x="205.7" y="-113.96" font-family="Arial" font-size="10.00" fill="#173d41">WRAITHHAMMERCHANCE</text>
+</a>
+</g>
+</g></a>
+<!-- n1761&#45;&gt;n771 -->
+<g id="e3232" class="edge"><path fill="none" stroke="transparent" stroke-width="9" d="M103.77,-218.06C136.46,-193.88 189.76,-154.46 189.76,-154.46 189.76,-154.46 193.04,-153.37 198.25,-151.63" style="stroke:transparent;stroke-width:9;pointer-events:stroke"/>
+<title>n1761-&gt;n771</title>
+<g id="a_e3232"><a xlink:title="怨灵领主 → TREASURE_WRAITHHAMMERCHANCE · 1 行">
+<path fill="none" stroke="#80998b" stroke-width="1.05" d="M103.77,-218.06C136.46,-193.88 189.76,-154.46 189.76,-154.46 189.76,-154.46 193.04,-153.37 198.25,-151.63"/>
+<polygon fill="#80998b" stroke="#80998b" stroke-width="1.05" points="198.64,-153.72 203.66,-149.83 197.31,-149.73 198.64,-153.72"/>
+</a>
+</g>
+</g>
+</g>
+<text x="0" y="-29" font-size="19" font-family="sans-serif" fill="#173d41">共享掉落调用图</text><text x="0" y="-8" font-size="10" font-family="sans-serif" fill="#173d41">主线与代表性专属分支  /  点击节点可打开完整上下游</text><text x="0" y="-8" font-size="10" font-family="sans-serif" fill="#173d41"/><text x="0" y="520" font-size="10" font-family="sans-serif" fill="#bd263c">?  本表含 NONE</text><text x="90" y="520" font-size="10" font-family="sans-serif" fill="#aa7200">★  本表含镶嵌物或专用子表</text><text x="0" y="507" font-size="10" font-family="sans-serif" fill="#173d41">蓝：来源　　绿：掉落表　　金：特殊奖励　　紫：物品或类型　　箭头：调用方向</text><foreignObject x="0" y="0" width="1" height="1" opacity="0" pointer-events="none"><iframe xmlns="http://www.w3.org/1999/xhtml" id="draft-bridge" src="编辑器/草稿存储.html" title="读取草稿标记"></iframe></foreignObject><script><![CDATA[const rarityNodes={"UNITS/ITEMS/2HAXE/LEGENDARY_GREATAXE01.DAT":["~LEGENDARY"],"UNITS/ITEMS/2HAXE/LEGENDARY_GREATAXE02.DAT":["~LEGENDARY"],"UNITS/ITEMS/2HAXE/LEGENDARY_GREATAXE03.DAT":["~LEGENDARY"],"UNITS/ITEMS/2HMACE/LEGENDARY_GREATHAMMER01.DAT":["~LEGENDARY"],"UNITS/ITEMS/2HMACE/LEGENDARY_GREATHAMMER02.DAT":["~LEGENDARY"],"UNITS/ITEMS/2HMACE/LEGENDARY_GREATHAMMER03.DAT":["~LEGENDARY"],"UNITS/ITEMS/2HSWORD/LEGENDARY_GREATSWORD01.DAT":["~LEGENDARY"],"UNITS/ITEMS/2HSWORD/LEGENDARY_GREATSWORD02.DAT":["~LEGENDARY"],"UNITS/ITEMS/2HSWORD/LEGENDARY_GREATSWORD03.DAT":["~LEGENDARY"],"UNITS/ITEMS/AXES/LEGENDARY_AXE01.DAT":["~LEGENDARY"],"UNITS/ITEMS/AXES/LEGENDARY_AXE02.DAT":["~LEGENDARY"],"UNITS/ITEMS/AXES/LEGENDARY_AXE03.DAT":["~LEGENDARY"],"UNITS/ITEMS/AXES/LEGENDARY_AXE04.DAT":["~LEGENDARY"],"UNITS/ITEMS/BOWS/LEGENDARY_BOW01.DAT":["~LEGENDARY"],"UNITS/ITEMS/BOWS/LEGENDARY_BOW02.DAT":["~LEGENDARY"],"UNITS/ITEMS/BOWS/LEGENDARY_BOW03.DAT":["~LEGENDARY"],"UNITS/ITEMS/BOWS/LEGENDARY_BOW04.DAT":["~LEGENDARY"],"UNITS/ITEMS/CANNON/LEGENDARY_CANNON01.DAT":["~LEGENDARY"],"UNITS/ITEMS/CANNON/LEGENDARY_CANNON02.DAT":["~LEGENDARY"],"UNITS/ITEMS/CANNON/LEGENDARY_CANNON03.DAT":["~LEGENDARY"],"UNITS/ITEMS/CROSSBOWS/LEGENDARY_CROSSBOW01.DAT":["~LEGENDARY"],"UNITS/ITEMS/CROSSBOWS/LEGENDARY_CROSSBOW02.DAT":["~LEGENDARY"],"UNITS/ITEMS/FISTS/LEGENDARY_FIST01.DAT":["~LEGENDARY"],"UNITS/ITEMS/FISTS/LEGENDARY_FIST02.DAT":["~LEGENDARY"],"UNITS/ITEMS/FISTS/LEGENDARY_FIST03.DAT":["~LEGENDARY"],"UNITS/ITEMS/FISTS/LEGENDARY_FIST04.DAT":["~LEGENDARY"],"UNITS/ITEMS/FISTS/LEGENDARY_FIST05.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_AXE05.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_AXE05B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_BOW05.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_BOW05B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_CANNON04.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_CANNON04B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_CROSSBOW03.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_CROSSBOW03B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_FIST06.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_FIST06B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_GREATAXE04.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_GREATAXE04B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_GREATHAMMER04.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_GREATHAMMER04B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_GREATSWORD04.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_GREATSWORD04B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_HAMMER05.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_HAMMER05B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_PISTOL06.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_PISTOL06B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_POLEARM04.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_POLEARM04B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_RIFLE04.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_RIFLE04B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_SHIELD05.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_SHIELD05B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_STAFF06.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_STAFF06B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_SWORD05.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_SWORD05B.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_WAND06.DAT":["~LEGENDARY"],"UNITS/ITEMS/LEGENDARY2/LEGENDARY2_WAND06B.DAT":["~LEGENDARY"],"UNITS/ITEMS/MACES/LEGENDARY_HAMMER01.DAT":["~LEGENDARY"],"UNITS/ITEMS/MACES/LEGENDARY_HAMMER02.DAT":["~LEGENDARY"],"UNITS/ITEMS/MACES/LEGENDARY_HAMMER03.DAT":["~LEGENDARY"],"UNITS/ITEMS/MACES/LEGENDARY_HAMMER04.DAT":["~LEGENDARY"],"UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL01.DAT":["~LEGENDARY"],"UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL02.DAT":["~LEGENDARY"],"UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL03.DAT":["~LEGENDARY"],"UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL04.DAT":["~LEGENDARY"],"UNITS/ITEMS/PISTOLS/LEGENDARY_PISTOL05.DAT":["~LEGENDARY"],"UNITS/ITEMS/POLEARMS/LEGENDARY_POLEARM01.DAT":["~LEGENDARY"],"UNITS/ITEMS/POLEARMS/LEGENDARY_POLEARM02.DAT":["~LEGENDARY"],"UNITS/ITEMS/POLEARMS/LEGENDARY_POLEARM03.DAT":["~LEGENDARY"],"UNITS/ITEMS/RIFLES/LEGENDARY_RIFLE01.DAT":["~LEGENDARY"],"UNITS/ITEMS/RIFLES/LEGENDARY_RIFLE02.DAT":["~LEGENDARY"],"UNITS/ITEMS/RIFLES/LEGENDARY_RIFLE03.DAT":["~LEGENDARY"],"UNITS/ITEMS/SHIELDS/LEGENDARY_SHIELD02.DAT":["~LEGENDARY"],"UNITS/ITEMS/SHIELDS/LEGENDARY_SHIELD03.DAT":["~LEGENDARY"],"UNITS/ITEMS/SHIELDS/LEGENDARY_SHIELD04.DAT":["~LEGENDARY"],"UNITS/ITEMS/SHIELDS/LEGENDARY_SHIELD05.DAT":["~LEGENDARY"],"UNITS/ITEMS/SOCKETABLES/QUEST_MANAVENT_REWARD.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_DRAGON_HEARTFIRE.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYECACKLESPIT.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOBOLETUS.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFARIKI_TARA.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFBLOATFANG.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFDARKALCHEMIST.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFELDERKURU.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFELDRAYN.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFEZREK_KHAN.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFGALLO.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFGRELL.DAT":["!TL2_EYEOFGRELL","~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFGROM.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFGUNNBREN.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFJUTHAMA_KASAM.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFKIDRIK.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFKINGPOGG.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFMORDROX.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFNETHERLORD.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFSISTER_ALEERA.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFSISTER_MARISHKA.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFSISTER_VERONA.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFSTENNBRUN.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFTHEARTIFICER.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFTHEDRAGON.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFTHEKILLBOT.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFTHEMANAFORGED.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFTHEMANAGUARDIAN.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFTHEMANTICORE.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFTHEWEREWOLF.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFTHEWRAITHLORD.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFTIAMAT.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_EYEOFWINTERWIDOW.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_GOLDGEM1.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_GOLDGEM2.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_GOLDGEM3.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_GOLDGEM4.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_GOLDGEM5.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_GOLDGEM6.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_KELTONSROCK.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_LENS.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_LUCKGEM1.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_LUCKGEM2.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_LUCKGEM3.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_LUCKGEM4.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_LUCKGEM5.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_LUCKGEM6.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_PARTS_WEAPON1.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_PARTS_WEAPON2.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_PARTS_WEAPON3.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_PARTS_WEAPON4.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_PARTS_WEAPON5.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_POGGSLAMMER.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL001.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL002.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL003.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL004.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL005.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL006.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL007.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL008.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL009.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL010.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL011.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL012.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL013.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL014.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL015.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL016.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL017.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL018.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL019.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL020.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL021.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL022.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL023.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL024.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL025.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL026.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL027.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL028.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL029.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL030.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL031.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL032.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL033.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL034.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL035.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL036.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL037.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL038.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL039.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL040.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL041.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL042.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL043.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL044.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL045.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL046.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL047.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL048.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL049.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL050.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL051.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/SOCKETABLES/TL2_SKULL052.DAT":["~UNIQUE SOCKETABLE"],"UNITS/ITEMS/STAVES/LEGENDARY_STAFF01.DAT":["~LEGENDARY"],"UNITS/ITEMS/STAVES/LEGENDARY_STAFF02.DAT":["~LEGENDARY"],"UNITS/ITEMS/STAVES/LEGENDARY_STAFF03.DAT":["~LEGENDARY"],"UNITS/ITEMS/STAVES/LEGENDARY_STAFF04.DAT":["~LEGENDARY"],"UNITS/ITEMS/STAVES/LEGENDARY_STAFF05.DAT":["~LEGENDARY"],"UNITS/ITEMS/SWORDS/LEGENDARY_SWORD01.DAT":["~LEGENDARY"],"UNITS/ITEMS/SWORDS/LEGENDARY_SWORD02.DAT":["~LEGENDARY"],"UNITS/ITEMS/SWORDS/LEGENDARY_SWORD03.DAT":["~LEGENDARY"],"UNITS/ITEMS/SWORDS/LEGENDARY_SWORD04.DAT":["~LEGENDARY"],"UNITS/ITEMS/WANDS/LEGENDARY_WAND01.DAT":["~LEGENDARY"],"UNITS/ITEMS/WANDS/LEGENDARY_WAND02.DAT":["~LEGENDARY"],"UNITS/ITEMS/WANDS/LEGENDARY_WAND03.DAT":["~LEGENDARY"],"UNITS/ITEMS/WANDS/LEGENDARY_WAND04.DAT":["~LEGENDARY"],"UNITS/ITEMS/WANDS/LEGENDARY_WAND05.DAT":["~LEGENDARY"]};
+const ns='http://www.w3.org/2000/svg',bridge=document.getElementById('draft-bridge');
+function sync(){bridge.contentWindow?.postMessage({lootDraft:1,op:'get'},'*')}
+bridge.addEventListener('load',sync);addEventListener('pageshow',sync);sync();
+addEventListener('message',ev=>{
+ if(ev.source!==bridge.contentWindow||ev.data?.lootDraft!==1||!ev.data.state)return;
+ const flags=new Set();for(const k of Object.keys(ev.data.state)){const [kind,n]=k.split('|');if(kind==='R'){for(const node of (rarityNodes[n]||[]))flags.add(node)}else flags.add(n)}
+ for(const a of document.querySelectorAll('a[href*="#"]')){
+  const id=decodeURIComponent(a.getAttribute('href').split('#')[1]);const g=a.querySelector('g.node');if(!g)continue;
+  let w=g.querySelector('.draft-wrench');if(!flags.has(id)){w?.remove();continue}if(w)continue;
+  const b=g.getBBox();w=document.createElementNS(ns,'text');w.setAttribute('class','draft-wrench');w.setAttribute('x',b.x+b.width-11);w.setAttribute('y',b.y+6);w.setAttribute('font-size','11');w.setAttribute('pointer-events','none');w.textContent='🔧';g.append(w)
+ }
+})
+]]></script></svg>

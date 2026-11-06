@@ -1,0 +1,11 @@
+# macOS metadata
+.DS_Store
+._*
+# Local exports and packaged mods
+*.zip
+*.mod
+*.MOD
+# Development artifacts
+node_modules/
+playwright-report/
+test-results/

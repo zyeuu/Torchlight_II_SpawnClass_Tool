@@ -1,0 +1,11 @@
+<!doctype html><meta charset="utf-8"><title>掉落编辑草稿存储</title><script>
+const prefix='tl2:loot-draft:v1:',stateKey='tl2:loot-draft:v2:state';
+function send(data){parent.postMessage({lootDraft:1,...data},'*')}
+function snapshot(){const saved=localStorage.getItem(stateKey);if(saved!==null)return JSON.parse(saved);const state={};for(let i=0;i<localStorage.length;i++){const k=localStorage.key(i);if(k.startsWith(prefix))state[k.slice(prefix.length)]=JSON.parse(localStorage.getItem(k))}return state}
+addEventListener('message',e=>{if(e.source!==parent||e.data?.lootDraft!==1)return;try{
+ if(e.data.op==='set'){const state=snapshot(),{key,value}=e.data;if(value===null)delete state[key];else state[key]=value;localStorage.setItem(stateKey,JSON.stringify(state))}
+ if(e.data.op==='replace'){if(JSON.stringify(snapshot())!==JSON.stringify(e.data.expected))throw Error('预览期间草稿已发生变化，请重新选择 ZIP 后导入');localStorage.setItem(stateKey,JSON.stringify(e.data.state))}
+ send({state:snapshot(),requestId:e.data.requestId})
+}catch(err){send({error:String(err),requestId:e.data.requestId})}});
+addEventListener('storage',e=>{if(!e.key||e.key===stateKey||e.key.startsWith(prefix))send({state:snapshot()})});
+</script>
